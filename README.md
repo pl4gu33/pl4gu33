@@ -31,8 +31,5 @@ Here are some ideas to get you started:
 [![website](./img/instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
 
-<a href="https://wigle.net">
-<img alt="WiGLE Badge" border="0" src="https://wigle.net/bi/chvWMGljuyUKebKp+GCSxA.png">
-</a>
-<script src="https://tryhackme.com/badge/1863319"></script>
+![tryhackme stats](https://raw.githubusercontent.com/pl4gu33/pl4gu33/master/assets/thm_propic.png)
 
