@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pl4gu33.png" alt="TryHackME">
+<img src="https://tryhackme-badges.s3.amazonaws.com/pl4gu33.png" alt="TryHackMe">
 
