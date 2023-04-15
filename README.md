@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 [![website](./img/instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pl4gu33.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/pl4gu33.png" alt="TryHackME">
 
