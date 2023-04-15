@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://0cool-design.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/0_C0OL#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/0_C0OL#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/0_co0l#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/0_co0l#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
 
 <a href="https://wigle.net">
 <img alt="WiGLE Badge" border="0" src="https://wigle.net/bi/chvWMGljuyUKebKp+GCSxA.png">
