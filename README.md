@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 [![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
+[![website](./twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
 ![Arrexel](https://www.hackthebox.eu/badge/image/786992)
 
 
