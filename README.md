@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://0cool-design.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
+[![website](./twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
