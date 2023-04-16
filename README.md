@@ -27,8 +27,5 @@ Here are some ideas to get you started:
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-dark-mode-only)
 [![website](./instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://www.instagram.com/alsh4rfi#gh-dark-mode-only)
-<hr>
-&nbsp;&nbsp;
-### L
 ![Arrexel](https://www.hackthebox.eu/badge/image/786992)
 <img src="https://tryhackme-badges.s3.amazonaws.com/pl4gu33.png" alt="TryHackMe">
