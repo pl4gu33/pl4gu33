@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
+[![website](./twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
 [![website](./twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/pl4gu3-alsharafi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://www.instagram.com/alsh4rfi#gh-light-mode-only)
