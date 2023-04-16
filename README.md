@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://0cool-design.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./twitter-light.svg)](https://twitter.com/alsh4rfi#gh-light-mode-only)
 [![website](./twitter-dark.svg)](https://twitter.com/alsh4rfi#gh-dark-mode-only)
